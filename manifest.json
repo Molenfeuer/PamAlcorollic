@@ -1,0 +1,11 @@
+{
+  "Name": "Pam Alco-roll-ic",
+  "Author": "Nordmole",
+  "Version": "1.0.0",
+  "Description": "Let Pam roll to her targets",
+  "UniqueID": "Nordmole.PamAlcorollic",
+  "UpdateKeys": [ "Nexus:" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
