@@ -1,0 +1,10 @@
+{
+  "Format": "1.23.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Pam",
+      "FromFile": "assets/pam_roll.png"
+    }
+  ]
+}
