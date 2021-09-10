@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "Let Pam roll to her targets",
   "UniqueID": "Nordmole.PamAlcorollic",
-  "UpdateKeys": [ "Nexus:" ],
+  "UpdateKeys": [ "Nexus:9603" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
