@@ -16,6 +16,14 @@
     {
       "UniqueID": "Poltergeister.SeasonalCuteCharacters",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "gideonsgrave.PrettierPam",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "moirgane.hot_pam",
+      "IsRequired": false
     }
   ]
 }
