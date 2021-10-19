@@ -1,7 +1,7 @@
 {
   "Name": "Pam Alco-roll-ic",
   "Author": "Nordmole",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": "Let Pam roll to her targets",
   "UniqueID": "Nordmole.PamAlcorollic",
   "UpdateKeys": [ "Nexus:9603" ],
@@ -15,6 +15,14 @@
     },
     {
       "UniqueID": "Poltergeister.SeasonalCuteCharacters",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "gideonsgrave.PrettierPam",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "moirgane.hot_pam",
       "IsRequired": false
     }
   ]
