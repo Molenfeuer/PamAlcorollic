@@ -4,7 +4,9 @@
     {
       "Action": "EditImage",
       "Target": "Characters/Pam",
-      "FromFile": "assets/pam_roll.png"
+      "FromFile": "assets/pam_roll.png",
+      "FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 128 },
+      "ToArea": { "X": 16, "Y": 0, "Width": 48, "Height": 128 }
     }
   ]
 }
