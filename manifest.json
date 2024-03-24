@@ -1,9 +1,9 @@
 {
   "Name": "Pam Alco-roll-ic",
-  "Author": "Nordmole",
+  "Author": "Molenfeuer",
   "Version": "2.0.0",
   "Description": "Let Pam roll to her targets",
-  "UniqueID": "Nordmole.PamAlcorollic",
+  "UniqueID": "Molenfeuer.PamAlcorollic",
   "UpdateKeys": [ "Nexus:9603" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
