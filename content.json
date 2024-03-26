@@ -7,6 +7,27 @@
       "FromFile": "assets/pam_roll.png",
       "FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 128 },
       "ToArea": { "X": 16, "Y": 0, "Width": 48, "Height": 128 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Pam",
+      "FromFile": "assets/pam_roll_spring.png",
+      "FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 128 },
+      "ToArea": { "X": 16, "Y": 0, "Width": 48, "Height": 128 },
+      "When": {
+        "HasMod": "Poltergeister.SeasonalCuteCharacters",
+        "Season": "spring"
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Pam_Winter",
+      "FromFile": "assets/pam_roll_winter.png",
+      "FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 128 },
+      "ToArea": { "X": 16, "Y": 0, "Width": 48, "Height": 128 },
+      "When": {
+        "HasMod": "Poltergeister.SeasonalCuteCharacters"
+      }
     }
   ]
 }
